@@ -1,0 +1,29 @@
+{
+"createUserData" : {
+    
+    "name" : "osman elsayed",
+    "email": "osman@yahoo.com",
+    "password" : "Hamada1020",
+    "address" : {
+        "country" : "egypt",
+        "city" : "shibin",
+        "street" : "dr.ragab",
+        "flatNumber" : "10"
+    },
+    "phone" : 1227561027,
+    "role" : "admin",
+    "isCompany" : false
+
+},
+    "createProduct" : {
+        "name" : "salad", 
+        "description" : "this the favourite dish for me ",
+        "specification": {
+            
+        },
+        "price" : 1000,
+        "numStock" : 50,
+        "category" : "Books"
+        
+        }
+}
